@@ -9,3 +9,9 @@ padding: 10px;
 font-size: 32px;
 color: rgb(148, 10, 218);
 }
+section{background: yellowpadd;
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
