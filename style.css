@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(223, 0, 119);
+    color: rgb(197, 15, 121);
+    font-family: sans-serif;
+    margin:0px;
+}
+header{border-bottom:solid 4px red;
+padding: 10px;
+font-size: 32px;
+color: rgb(148, 10, 218);
+}
